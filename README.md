@@ -41,16 +41,16 @@ The EMoMiS software does not require compilation and can be used directly when a
 ## Running EMoMiS
 EMoMiS pipeline can be run in forward and reverse phases.
 To reproduce the results from the paper on the molecular mimicry search with SARS-CoV-2 Spike applications, run the following:
-* Forward phase: 
 
+Forward phase: 
 
     cd ./experiments/demo_forward
     chmod +x run_emomis.sh
     ./run_emomis.sh
     python get_unique_hits.py
   
-* Reverse phase:
 
+Reverse phase:
 
     cd ./experiments/demo_forward
     chmod +x run_emomis.sh
