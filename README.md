@@ -6,7 +6,7 @@ Then, a pre-trained deep learning model is used to evaluate if antibodies, known
 
 For a detailed description of the pipeline process, refer to our paper:
 
-Stebliankin, Baral, Nunez-Castilla, Sobhan, Cickovski, Mondal, Siltberg-Liberles, Chapagain, Mathee, and Narasimhan (2022), EMoMiS: A Pipeline for Epitope-based Molecular Mimicry Search in Protein Structures with Applications to SARS-CoV-2, (Under review, ISMB 2022).
+Stebliankin, Baral, Nunez-Castilla, Sobhan, Cickovski, Mondal, Siltberg-Liberles, Chapagain, Mathee, and Narasimhan, EMoMiS: A Pipeline for Epitope-based Molecular Mimicry Search in Protein Structures with Applications to SARS-CoV-2, (Under review, ISMB 2022).
 
 ## Inatallation
 
