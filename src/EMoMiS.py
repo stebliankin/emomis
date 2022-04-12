@@ -16,7 +16,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--config', help='optional config file')
 parser.add_argument('--reverse', default=False, action="store_true", help='If set True, reverse target and database lists.')
 parser.add_argument('--skip_blast', default=False, action="store_true", help='If set True, skip "Blast search part".')
-parser.add_argument('--skip_sabdab', default=False, action="store_true", help='If set True, skip "Blast search part".')
+parser.add_argument('--skip_sabdab', default=False, action="store_true", help='If set True, do not download SAbDab".')
 
 args = parser.parse_args()
 reverse_flag = args.reverse

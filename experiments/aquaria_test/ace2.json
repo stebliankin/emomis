@@ -1,0 +1,33 @@
+{
+"About": {
+    "Title": "Variants in the Human ACE2 protein.",
+    "Description": "Four variants taken from Suryamohan et al. 2021, two which increase susceptibility to COVID-19, and two which decrease susceptibility are present in this example file."
+  },
+  "ACE2": {
+    "Description": "Variant amino acids of the ACE2 protein in Humans.",
+    "Features": [
+    	{
+    		"Name": "K26R",
+    		"Residue": 26,
+        "Description": "Increases susceptibility"
+    	},
+    	{
+    		"Name": "T92I",
+    		"Residue": 92,
+        "Description": "Increases susceptibility"
+    	},
+    	{
+    		"Name": "E37K",
+    		"Residue": 37,
+        "Description": "Decreases susceptibility",
+        "Color": "Skyblue"
+    	},
+    	{
+    		"Name": "K31R",
+    		"Residue": 31,
+        "Description": "Decreases susceptibility",
+        "Color": "Skyblue"
+    	}
+    ]
+  }
+}

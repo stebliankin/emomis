@@ -4,9 +4,11 @@ EMoMiS is an Epitope-based Molecular Mimicry Search pipeline.
 As a first step, antigens extracted from the Structural Antibody Database (SAbDab) are searched for sequence regions and structural similarity with the target protein. 
 Then, a pre-trained deep learning model is used to evaluate if antibodies, known to recognize the SAbDab antigens, can cross-react with the target structure.
 
+Please note that the average running time of the pipeline is 12 hours and requires 40 Gb of disk space.
+
 For a detailed description of the pipeline process, refer to our paper:
 
-Stebliankin, Baral, Nunez-Castilla, Sobhan, Cickovski, Mondal, Siltberg-Liberles, Chapagain, Mathee, and Narasimhan (2022), EMoMiS: A Pipeline for Epitope-based Molecular Mimicry Search in Protein Structures with Applications to SARS-CoV-2, (Under review, ISMB 2022).
+Stebliankin, V., Baral, P., Balbin, C., Nunez-Castilla, J., Sobhan, M., Cickovski, T., ... & Narasimhan, G. (2022). EMoMiS: A Pipeline for Epitope-based Molecular Mimicry Search in Protein Structures with Applications to SARS-CoV-2. BioRxiv.
 
 ## Inatallation
 

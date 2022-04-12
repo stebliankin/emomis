@@ -1,0 +1,278 @@
+{  
+"About": {
+    "Title": "Variant amino acids in omicron (21K BA.1)",
+    "Description": "Variant amino acids in the omicron strain of SarsCov2 derived from <a href='https://covariants.org/variants/21K.Omicron'>covariants.org 21K</a> 20220117 (Nextrain Clade 21K corresponds to <a href='https://cov-lineages.org/lineage.html?lineage=BA.1'> Pango Lineage BA.1</a>)."
+  },
+  "S": {
+    "Description": "Variant amino acids of the spike protein in the omicron strain",
+    "Sequence_hash": "4c35f09aac2f7be4f3cffd30c6aecac8", 
+    "Features": [
+	{
+		"Name": "A67V",
+		"Residue": 67	
+	},
+	{
+		"Name": "H69_V70del",
+		"Residues": "69-70"	
+	},
+	{
+		"Name": "T95I",
+		"Residue": 95	
+	},
+	{
+		"Name": "G142D",
+		"Residue": 142	
+	},
+	{
+		"Name": "V143_Y145del",
+		"Residues": "143-145"	
+	},
+	{
+		"Name": "N211I",
+		"Residue": 211	
+	},
+	{
+		"Name": "L212del",
+		"Residue": 212	
+	},
+	{
+		"Name": "G339D",
+		"Residue": 339
+	},
+	{
+		"Name": "S371L",
+		"Residue": 371	
+	},
+	{
+		"Name": "S373P",
+		"Residue": 373	
+	},
+	{
+		"Name": "S375F",
+		"Residue": 375	
+	},
+	{
+		"Name": "K417N",
+		"Residue": 417	
+	},
+	{
+		"Name": "N440K",
+		"Residue": 440	
+	},
+	{
+		"Name": "G446S",
+		"Residue": 446	
+	},
+	{
+		"Name": "S477N",
+		"Residue": 477	
+	},
+	{
+		"Name": "T478K",
+		"Residue": 478	
+	},
+	{
+		"Name": "E484A",
+		"Residue": 484	
+	},
+	{
+		"Name": "G493R",
+		"Residue": 493	
+	},
+	{
+		"Name": "G496S",
+		"Residue": 496	
+	},
+	{
+		"Name": "Q498R",
+		"Residue": 498	
+	},
+	{
+		"Name": "N501Y",
+		"Residue": 501
+	},
+	{
+		"Name": "Y505H",
+		"Residue": 505
+	},
+	{
+		"Name": "T547K",
+		"Residue": 547	
+	},
+	{
+		"Name": "D614G",
+		"Residue": 614
+	},
+	{
+		"Name": "H655Y",
+		"Residue": 655
+	},
+	{
+		"Name": "N679K",
+		"Residue": 679	
+	},
+	{
+		"Name": "P681H",
+		"Residue": 681
+	},
+	{
+		"Name": "N764K",
+		"Residue": 764
+	},
+	{
+		"Name": "D796Y",
+		"Residue": 796 
+	},
+	{
+		"Name": "N856K",
+		"Residue": 856 
+	},
+	{
+		"Name": "Q954H",
+		"Residue": 954
+	},
+	{
+		"Name": "N969K",
+		"Residue": 969 
+	},
+	{
+		"Name": "L981F",
+		"Residue": 981
+	}   
+    ]
+  },
+  "PP1a": {
+    "Description": "Variant amino acids of polyprotein 1a in the omicron strain",
+    "Sequence_hash": "e781b58591b8dbdd15f84dcbdec82105",
+    "Features": [
+	{
+		"Name": "K856R",
+		"Residue": 856
+	},
+	{
+		"Name": "S2083_del",
+		"Residue": 2083
+	},
+	{
+		"Name": "L2084I",
+		"Residue": 2084
+	},
+	{
+		"Name": "A2710T",
+		"Residue": 2710
+	},
+	{
+		"Name": "T3255I",
+		"Residue": 3255
+	},
+	{
+		"Name": "P3395H",
+		"Residue": 3395
+	},
+	{
+		"Name": "L3674_G3676del",
+		"Residues": "3674-3676"
+	},
+	{
+		"Name": "I3785V",
+		"Residue": 3785
+	}
+	]
+  },
+  "PP1ab": {
+    "Description": "Variant amino acids of polyprotein 1ab in the omicron strain",
+    "Sequence_hash": "e6608b50fcd6e004708a875615ddf2d9",
+    "Features": [
+	{
+		"Name": "K856R",
+		"Residue": 856
+	},
+	{
+		"Name": "S2083_del",
+		"Residue": 2083
+	},
+	{
+		"Name": "L2084I",
+		"Residue": 2084
+	},
+	{
+		"Name": "A2710T",
+		"Residue": 2710
+	},
+	{
+		"Name": "T3255I",
+		"Residue": 3255
+	},
+	{
+		"Name": "P3395H",
+		"Residue": 3395
+	},
+	{
+		"Name": "L3674_G3676del",
+		"Residues": "3674-3676"
+	},
+	{
+		"Name": "I3785V",
+		"Residue": 3785
+	},
+	{
+		"Name": "P4715L",
+		"Residue": 4715
+	},
+	{
+		"Name": "I5967V",
+		"Residue": 5967
+	}
+	]
+  },
+  "E": {
+    "Description": "Variant amino acids of the envelope protein in the omicron strain",
+    "Sequence_hash": "375e0f905c315e06a99c80b736c125d2",
+    "Features": [
+	{
+		"Name": "T9I",
+		"Residue": 9
+	}
+	]
+  },
+  "M": {
+    "Description": "Variant amino acids of the membrane protein in the omicron strain",
+    "Sequence_hash": "1cd6abff79ad3633e17582eb0e576539",
+    "Features": [
+	{
+		"Name": "D3G",
+		"Residue": 3 
+	},
+	{
+		"Name": "Q19E",
+		"Residue": 19 
+	},
+		{
+		"Name": "A63T",
+		"Residue": 63
+	}
+	]
+  },
+  "N": {
+    "Description": "Variant amino acids of the nucleocapsid protein in the omicron strain",
+    "Sequence_hash": "b100d0849c3e01fc6c75ead0e916ce0f",
+    "Features": [
+	{
+		"Name": "P13L",
+		"Residue": 13
+	},
+	{
+		"Name": "E31_S33del",
+		"Residues": "31-33"
+	},
+	{
+		"Name": "R203K",
+		"Residue": 203
+	},
+	{
+		"Name": "G204R",
+		"Residue": 204 
+	}
+	]
+  }
+}
