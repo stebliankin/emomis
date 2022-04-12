@@ -7,26 +7,9 @@
     "Description": "Variant amino acids of the ACE2 protein in Humans.",
     "Features": [
     	{
-    		"Name": "K26R",
+    		"Name": "TQLPP",
     		"Residue": 26,
-        "Description": "Increases susceptibility"
-    	},
-    	{
-    		"Name": "T92I",
-    		"Residue": 92,
-        "Description": "Increases susceptibility"
-    	},
-    	{
-    		"Name": "E37K",
-    		"Residue": 37,
-        "Description": "Decreases susceptibility",
-        "Color": "Skyblue"
-    	},
-    	{
-    		"Name": "K31R",
-    		"Residue": 31,
-        "Description": "Decreases susceptibility",
-        "Color": "Skyblue"
+        "Description": "Custom feature"
     	}
     ]
   }
