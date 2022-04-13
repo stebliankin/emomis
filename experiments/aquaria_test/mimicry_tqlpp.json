@@ -8,7 +8,8 @@
     "Features": [
 	{
 		"Name": "TQLPP",
-		"Residues": "22-26"
+		"Residues": "22-26",
+        "Description": "Structural similarity RMSD = 0.9A (p-val=0.09);</br> DL score = 1.28 (DL p-val = 0.01)"
 	}
     ]
   }
