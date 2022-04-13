@@ -8,7 +8,8 @@
     "Features": [
 	{
 		"Name": "TQLPP",
-		"Residues": "22-26"
+		"Residues": "22-26",
+        "Color": "red"
 	}
     ]
   }
