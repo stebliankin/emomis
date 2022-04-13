@@ -1,0 +1,15 @@
+{
+"About": {
+    "Title": "EMoMiS Forward phase results",
+    "Description": "Molecular mimicry candidates, where antibodies from other organisms that likely cross-react with the SARS-CoV-2 Spike"
+  },
+  "S": {
+    "Description": "Molecular mimicry with TPO protein",
+    "Features": [
+	{
+		"Name": "TQLPP",
+		"Residues": "22-26"
+	}
+    ]
+  }
+}
