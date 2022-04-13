@@ -8,7 +8,7 @@
     "Features": [
 	{
 		"Name": "TQLPP",
-		"Residue": "22-26"
+		"Residues": "22-26"
 	}
     ]
   }
