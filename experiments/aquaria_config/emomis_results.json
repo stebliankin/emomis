@@ -1,0 +1,51 @@
+{
+"About": {
+    "Title": "EMoMiS Forward phase results",
+    "Description": "Molecular mimicry candidates, where antibodies from other organisms that likely cross-react with the SARS-CoV-2 Spike"
+  },
+  "S": {
+    "Description": "Molecular mimicry results",
+    "Features": [
+	{
+		"Name": "TQLPP (resid 22-26)",
+		"Residues": "22-26",
+        "Description": "Molecular mimicry with TPO (PDB ID 1V7M)</br>RMSD = 0.9A (p-val=0.09)</br> DL score = 1.28 (DL p-val = 0.01)"
+	},
+      {
+		"Name": "ESEF (resid 154-157)",
+		"Residues": "154-157",
+        "Description": "Molecular mimicry with TNFRSF-5 (PDB ID 6PE8)</br>RMSD = 0.42A (p-val=0.1)</br> DL score = 1.749 (DL p-val = 0.03)"
+	},
+      {
+		"Name": "NITN (resid 331-334)",
+		"Residues": "331-334",
+        "Description": "Molecular mimicry with ABCB-1 (PDB ID 6FN1)</br>RMSD = 0.41A (p-val=0.1)</br> DL score = 2.259 (DL p-val = 0.09)"
+	},
+      {
+		"Name": "NLVK (resid 532-535)",
+		"Residues": "532-535",
+        "Description": "Molecular mimicry with Dengue virus 1 (PDB ID 6WEQ)</br>RMSD = 0.25A (p-val=0.06)</br> DL score = 2.347 (DL p-val = 0.1)"
+	},
+            {
+		"Name": "GDSS (resid 252-255)",
+		"Residues": "252-255",
+        "Description": "Molecular mimicry with αIIbβ3 (PDB ID 4Z7N)</br>RMSD = 0.26A (p-val=0.063)</br> DL score = 1.705 (DL p-val = 0.03)"
+	},
+            {
+		"Name": "KHTP (resid 206-209)",
+		"Residues": "206-209",
+        "Description": "Molecular mimicry with HPV-16 (PDB ID 6BT3)</br>RMSD = 0.21A (p-val=0.06)</br> DL score = 1.829 (DL p-val = 0.04)"
+	},
+            {
+		"Name": "NITN (resid 331-334)",
+		"Residues": "331-334",
+        "Description": "Molecular mimicry with HIV-1 (PDB ID 1V7M)</br>RMSD = 0.37A (p-val=0.08)</br> DL score = 2.012 (DL p-val = 0.06)"
+	},
+            {
+		"Name": "FKEELD (resid 1148-1153)",
+		"Residues": "1148-1153",
+        "Description": "Molecular mimicry with Coronavirus OC43 (PDB ID 1V7M)</br>RMSD = 0.1A (p-val=0.004)</br> DL score = 2.13 (DL p-val = 0.07)"
+	}
+    ]
+  }
+}
